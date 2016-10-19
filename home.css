@@ -15,6 +15,10 @@
   font-weight: 700;
 }
 
+.centered {
+  text-align: center;
+}
+
 .logo {
   width: 36px;
   height: 40px;
@@ -47,15 +51,16 @@
 }
 
 .countdown {
-  height: 250px;
+  height: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.countdown h1 {
+/*.countdown h1 {
   color: white;
   padding: 15px;
   font-size: 25px;
   background: rgba(20, 20, 20, 0.4);
 }
+*/
